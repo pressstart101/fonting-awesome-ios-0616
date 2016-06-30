@@ -1,0 +1,18 @@
+platform :ios, '9.0'
+
+target 'FISFontAwesome' do
+
+  pod 'FontAwesomeKit', '~> 2.2'
+  pod 'CWStatusBarNotification', '~> 2.3'
+
+end
+
+target 'FISFontAwesomeTests' do
+  
+end
+
+target 'FISFontAwesomeUITests' do
+    
+end
+
+
